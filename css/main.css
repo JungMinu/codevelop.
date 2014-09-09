@@ -74,11 +74,11 @@ header a {
 }
 
 .title a {
-   color: #e74c3c;
+   color: #3498db;
 }
 
 .title a:hover {
-   color: #000;
+   color: #2ecc71;
 }
 
 .title {
