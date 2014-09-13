@@ -3,8 +3,8 @@ layout: page
 title: Minwoo Jung
 ---
 
-전설의 프로그래머
+Software Engineer
 
-> 레전설
+> jmwsoft@gmail.com
 
 ## 민우 on the Internet
