@@ -1,5 +1,1 @@
-# Gereksiz
-
-Gereksiz is a minimalist, based on the default. It is responsive, generates JSON and Atom feeds on each build, and can be easily extended. It uses Open Sans from Google Fonts.
-
-> It supports blockquotes, too.
+[a](https://cloud.githubusercontent.com/assets/5035902/10669371/69445f4a-791b-11e5-9c05-1d7b79ee5a39.gif)
